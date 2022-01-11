@@ -1,1 +1,1 @@
-traffic_light
+The simple traffic light created by states
